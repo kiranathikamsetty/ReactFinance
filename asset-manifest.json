@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactFinance/static/css/main.f2eb961a.css",
+    "main.js": "/ReactFinance/static/js/main.00234882.js",
+    "static/js/453.6c06b83a.chunk.js": "/ReactFinance/static/js/453.6c06b83a.chunk.js",
+    "index.html": "/ReactFinance/index.html",
+    "main.f2eb961a.css.map": "/ReactFinance/static/css/main.f2eb961a.css.map",
+    "main.00234882.js.map": "/ReactFinance/static/js/main.00234882.js.map",
+    "453.6c06b83a.chunk.js.map": "/ReactFinance/static/js/453.6c06b83a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2eb961a.css",
+    "static/js/main.00234882.js"
+  ]
+}
